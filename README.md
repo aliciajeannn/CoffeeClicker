@@ -1,5 +1,5 @@
 # :coffee: Coffee Clicker DOM Homework
-
+<h1>hi</h1>
 <hr/>
 
 ## Week 2 Assignment
